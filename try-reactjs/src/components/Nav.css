@@ -1,0 +1,13 @@
+.nav {
+    display: flex;
+    justify-content: space-around;
+    border-bottom: 1px solid black;
+    height: 45px;
+    align-items: center;
+    background-color: black;
+    color: white;
+
+}
+li{
+    list-style: none;
+}
